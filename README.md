@@ -102,7 +102,7 @@ When you send an http post request with the following information you will recei
 
 ### How it works?
 
-{mono}push allows you to send push notifications via the API. It sends push notifications through [Telegram] (https://telegram.org). Telegram is a secure and free messaging service with end-to-end encryption mechanism.
+{mono}push allows you to send push notifications via the API. It sends push notifications through [Telegram](https://telegram.org). Telegram is a secure and free messaging service with end-to-end encryption mechanism.
 
 {mono}push conveys these messages via a bot written on Telegram.
 
