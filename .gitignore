@@ -4,5 +4,5 @@ node_modules
 .temp
 TODOs.md
 vuepress
-.vuepress
+.vuepress/dist
 Jenkinsfile
