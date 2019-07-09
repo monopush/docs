@@ -72,7 +72,7 @@ Note that you need to send the relevant messages in the group to create a channe
 
 To set a new channel name and receive a message via that channel, you need to send a message from the {mono}push channel.
 
-You can use [this url](http://t.me/monopush) to do that.
+You can use [this url](http://t.me/monopushbot) to do that.
 
 If you don't have Telegram, you can use [this url](https://telegram.org/) to download Telegram for all platforms.
 
