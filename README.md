@@ -14,7 +14,7 @@ You can take your `YOUR-TOKEN` by applying following steps.
 
 #### Basic Push Notification (Just text)
 
-Bu push notification tipi basit text mesajlar göndermeniz içindir.
+This is basic push notification for text messages.
 
 ```json
 {
