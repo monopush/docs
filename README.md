@@ -100,6 +100,17 @@ When you send an http post request with the following information you will recei
 | Method | POST |
 | Content-Type | application/json |
 
+### Options
+
+| Option | Default Value | Description |
+| - | - | - |
+| `message` | `null` | Message of your notification |
+| `dontEscape` | `false` | Do not escape automatically special chars (that means you are gonna escape by yourself) |
+| `mode` | `markdown` | `markdown` or `text` |
+| `hideTitle` | `false` | Don't show title of your message |
+| `silent` | `false` | Don't vibrate / sound when message arrived |
+| `noPreview` | `false` | Hide previews of your URLs |
+
 ### How it works?
 
 {mono}push allows you to send push notifications via the API. It sends push notifications through [Telegram](https://telegram.org). Telegram is a secure and free messaging service with end-to-end encryption mechanism.
